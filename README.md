@@ -8,4 +8,4 @@ This project is an Islamic pocket app where Muslims primarily can benefit anytim
 
 Design sample of the application:
 
-- [Figma Design]([https://docs.flutter.dev/get-started/codelab](https://www.figma.com/file/gXyzkcVGUb6P70cOpTjikc/Untitled?type=design&node-id=0%3A1&mode=design&t=BjiyJ4agqifFb8jh-1)https://www.figma.com/file/gXyzkcVGUb6P70cOpTjikc/Untitled?type=design&node-id=0%3A1&mode=design&t=BjiyJ4agqifFb8jh-1)
+- [Figma Design] : https://www.figma.com/file/gXyzkcVGUb6P70cOpTjikc/Untitled?type=design&node-id=0%3A1&mode=design&t=BjiyJ4agqifFb8jh-1
