@@ -1,4 +1,4 @@
-# i_pocket_app
+# i_pocket_app_template
 
 A new Flutter project.
 
